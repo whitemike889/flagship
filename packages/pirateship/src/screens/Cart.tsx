@@ -89,7 +89,7 @@ const CartStyle = StyleSheet.create({
   lastItemTextStyle: {
     fontWeight: 'bold',
     fontSize: 16,
-    color: palette.primary
+    color: palette.secondary
   },
   checkoutButton: {
     borderWidth: 0,
