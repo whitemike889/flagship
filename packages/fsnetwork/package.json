@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@brandingbrand/fsfoundation": "^3.0.0",
-    "axios": "^0.18.0"
+    "axios": "^1.13.5"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
